@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>639273388519-o5dnn5p8g96hq9poq5412dr78viia51m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.639273388519-o5dnn5p8g96hq9poq5412dr78viia51m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>639273388519-3socmuhuf31gavkg8dpjhdgpb16f9cgp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuHjzx3mhtiAzPeRLrZjEf01rSe2DJ2mk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>639273388519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lawPocket</string>
+	<key>PROJECT_ID</key>
+	<string>law-pocket</string>
+	<key>STORAGE_BUCKET</key>
+	<string>law-pocket.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:639273388519:ios:faaaab887bcdbccdc55542</string>
+</dict>
+</plist>
